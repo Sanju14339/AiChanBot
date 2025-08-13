@@ -18,7 +18,7 @@ async def start(client:neko,message):
         ],
     ]
     await message.reply_text(text =
-                              "<b>Hey! Im AI-CHAN.</b>"
+                              "<b>Hey! Im Luna.</b>"
                               "\nI can help you explore many stuffs ,ask me anything."
                               "\n\n<b>About Me :</b>"
                               "\n\n  - <b>Name</b>        : <a href=\"https://t.me/its_raveen/\">Ai Chan</a>"
